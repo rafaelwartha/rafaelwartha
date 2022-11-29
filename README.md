@@ -1,6 +1,6 @@
 ## Olá eu sou o Rafael Wartha, estudante de programação e tecnologia!
 
-<div align="center">
+<div style="display: inline_block">
   
   <a href="https://github.com/rafaelwartha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelwartha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
