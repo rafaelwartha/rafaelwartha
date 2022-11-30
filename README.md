@@ -1,4 +1,4 @@
-## Olá eu sou o Rafael Wartha, estudante de programação e tecnologia!
+## I'm Rafael Wartha student of you and English!
 
 <div  align="center">
   
