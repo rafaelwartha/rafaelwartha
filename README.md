@@ -1,4 +1,4 @@
-## I'm Rafael Wartha student of you and English!
+## I'm Rafael Wartha, IT and English student!
 
 <div  align="center">
   
