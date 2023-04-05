@@ -1,4 +1,4 @@
-## I'm Rafael Wartha, IT and English student!
+Hi, my name is Rafael Augusto Wartha and I am a Brazilian national currently living in Matosinhos, Portugal. I am studying web development and I am particularly interested in the back-end part, which involves programming languages like PHP and SQL. Although my knowledge of front-end development is basic, I am eager to start my career as a developer and gain more experience in the field.
 
 <div  align="center">
   
